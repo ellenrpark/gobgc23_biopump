@@ -131,3 +131,4 @@ dmypy.json
 # Folders
 /csv_output/
 # Others
+.DS_Store
